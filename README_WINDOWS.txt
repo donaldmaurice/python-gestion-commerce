@@ -1,0 +1,1 @@
+Instructions pour tester sur Windows + PyCharm. Installer Kivy/KivyMD.

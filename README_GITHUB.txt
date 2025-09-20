@@ -1,0 +1,1 @@
+Instructions pour builder via GitHub Actions.

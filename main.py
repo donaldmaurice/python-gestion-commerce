@@ -1,0 +1,1 @@
+print('Use the provided project files. Run main.py with Kivy/KivyMD installed.')

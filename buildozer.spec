@@ -1,0 +1,1 @@
+[app]\ntitle = ECommerceKivyApp\npackage.name = ecommerce_app\nrequirements = python3,kivy,kivymd\n

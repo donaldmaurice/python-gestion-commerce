@@ -1,0 +1,1 @@
+Instructions pour builder APK avec buildozer on Ubuntu/WSL/VM.
